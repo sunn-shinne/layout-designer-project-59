@@ -1,0 +1,36 @@
+{
+  "name": "hexlet-chat",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/sunn-shinne/layout-designer-project-59/workflows/hexlet-check/badge.svg)](https://github.com/sunn-shinne/layout-designer-project-59/actions)",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunn-shinne/layout-designer-project-59.git"
+  },
+  "author": "Ekaterina Brekhova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunn-shinne/layout-designer-project-59/issues"
+  },
+  "homepage": "https://github.com/sunn-shinne/layout-designer-project-59#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "htmlhint": "^1.1.4",
+    "stylelint": "^14.11.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^28.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.3.0",
+    "surge": "^0.23.1"
+  }
+}
